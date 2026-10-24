@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Stylised "ب" (Ba): a bowl with a dot underneath. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F8F1E4"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M30,44 C30,62 78,62 78,44" />
+    <path
+        android:fillColor="#E0B44C"
+        android:pathData="M54,70 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+</vector>
